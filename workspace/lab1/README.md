@@ -1,5 +1,11 @@
 # Due date: Feb 14, 2022 at 11:59 P.M.
 
+# Student Name
+
+Sameer Khurana
+
+Kerberos: skhurana
+
 # Lab 1: Neural Network Profiling and Inference
 
 In this problem set, we will cover the basics of running neural network inference
